@@ -1,1 +1,3 @@
 set nocompatible
+
+set autoindent
