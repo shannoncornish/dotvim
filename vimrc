@@ -6,3 +6,4 @@ set number
 set ruler
 
 set ignorecase
+set smartcase
