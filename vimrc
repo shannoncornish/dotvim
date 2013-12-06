@@ -7,3 +7,5 @@ set ruler
 
 set ignorecase
 set smartcase
+
+syntax on
