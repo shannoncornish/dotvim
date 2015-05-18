@@ -14,4 +14,6 @@ set scrolloff=3
 set ignorecase
 set smartcase
 
+set autoread
+
 syntax on
