@@ -1,5 +1,7 @@
 set nocompatible
 
+set directory^=$HOME/.vim/tmp//
+
 set backspace=indent,eol,start
 
 set autoindent
